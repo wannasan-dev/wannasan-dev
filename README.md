@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Wanna! 👋
 
-<!--
-**wannasan-dev/wannasan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year **Software Engineering** student at Mae Fah Luang University (MFU), specializing in backend architectures and full-stack web applications. 
 
-Here are some ideas to get you started:
+### 🛠️ Technical Toolkit
+- **Backend:** Java, Spring Boot, Spring Security, REST APIs
+- **Frontend:** React, TypeScript, Vue.js, Nuxt.js, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **POS LocalMart:** An offline macOS (.dmg) Point of Sale system running on local network ports, secured via Spring Security and backed by SQLite.
+- **CineNotes:** A full-stack movie tracking application built with a modular, entity-based architecture using Spring Data JPA and Next.js.
+- **SOM-BI:** A University Senior Project engineered with Vue.js/Nuxt.js and Firebase to track and visualize faculty metrics.
+
+### 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/wanna-san-939371375/)
+- ✉️ Email: [wannsan0001@gmail.com]

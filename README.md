@@ -3,13 +3,12 @@
   <img src="https://demolab.com." alt="Typing SVG" />
 
   <!-- 2. Main Title Greeting -->
-  <h1>Hi 👋, I'm Wanna</h1>
+  <h1>Hi 👋, I'm Wanna San</h1>
   <p>Full-Stack Developer | Software Engineering Student</p>
 
   <!-- 3. Your Interactive Contact Buttons -->
-  <!-- REPLACE THE PLACEHOLDERS WITH YOUR ACTUAL LINKS/EMAIL -->
-  <a href="mailto:your-email@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="wannasan0001@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/wanna-san-939371375/)"><img src="https://shields.io" alt="LinkedIn" /></a>
 </div>
 
 ---

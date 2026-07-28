@@ -1,17 +1,41 @@
-# Hi there, I'm Wanna! 👋
+<div align="center">
+  <!-- 1. The Animated Typing Text -->
+  <img src="https://demolab.com." alt="Typing SVG" />
 
-I am a final-year **Software Engineering** student at Mae Fah Luang University (MFU), specializing in backend architectures and full-stack web applications. 
+  <!-- 2. Main Title Greeting -->
+  <h1>Hi 👋, I'm Wanna</h1>
+  <p>Full-Stack Developer | Software Engineering Student</p>
 
-### 🛠️ Technical Toolkit
-- **Backend:** Java, Spring Boot, Spring Security, REST APIs
-- **Frontend:** React, TypeScript, Vue.js, Nuxt.js, Tailwind CSS
-- **Databases:** MySQL, PostgreSQL, SQLite
+  <!-- 3. Your Interactive Contact Buttons -->
+  <!-- REPLACE THE PLACEHOLDERS WITH YOUR ACTUAL LINKS/EMAIL -->
+  <a href="mailto:your-email@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://shields.io" alt="LinkedIn" /></a>
+</div>
 
-### 🚀 Featured Projects
-- **POS LocalMart:** An offline macOS (.dmg) Point of Sale system running on local network ports, secured via Spring Security and backed by SQLite.
-- **CineNotes:** A full-stack movie tracking application built with a modular, entity-based architecture using Spring Data JPA and Next.js.
-- **SOM-BI:** A University Senior Project engineered with Vue.js/Nuxt.js and Firebase to track and visualize faculty metrics.
+---
 
-### 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/wanna-san-939371375/)
-- ✉️ Email: [wannsan0001@gmail.com]
+### 👤 About Me
+- 🎓 **Software Engineering student** at Mae Fah Luang University (Thailand)
+- 💻 Focused on scalable backend development, RESTful APIs, and responsive frontends
+- 🚀 Actively building real-world projects and participating in hackathons to expand my toolkit
+
+---
+
+### 💻 Technical Toolkit
+<div align="left">
+  <!-- Backend Badges -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  
+  <!-- Frontend Badges -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  
+  <!-- Database Badges -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>

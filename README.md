@@ -7,7 +7,7 @@
 
 ### 📬 Contact Channels
 * 📨 **Email:** wannasan0001@gmail.com
-* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/wanna-san-939371375/)
+* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/wanna-san-27a409373/)
 
 ---
 

@@ -1,24 +1,24 @@
-# Hi 👋, I'm Wanna San
+# Hi everyone, I'm Wanna San
 ### Full-Stack Developer | Software Engineering Student
 
 > **Core Focus:** Java & Spring Boot | React & TypeScript
 
 ---
 
-### 📬 Contact Channels
+###  Contact Channels
 * 📨 **Email:** wannasan0001@gmail.com
 * 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/wanna-san-27a409373/)
 
 ---
 
-### 👤 About Me
+###  About Me
 * 🎓 **Software Engineering student** at Mae Fah Luang University (Thailand)
 * 💻 Focused on scalable backend development, RESTful APIs, and responsive frontends
 * 🚀 Actively building real-world projects and participating in hackathons to expand my toolkit
 
 ---
 
-### 💻 Technical Toolkit
+###  Technical Toolkit
 
 | Layer | Technologies & Frameworks |
 | :--- | :--- |
